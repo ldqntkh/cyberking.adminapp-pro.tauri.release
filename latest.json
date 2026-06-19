@@ -3,7 +3,7 @@
     "notes": "Ckhub Admin app",
     "platforms": {
         "windows-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOW1UL1BoZWlSVGFXZzlDSFlVc0xCbWlXNjhoeXZIdERMdW1uYmxRcW5OaXZHRmhiOEpOL3B6ekliSTBCYXo3ZEtOSElYenVMV0tnTExVdVNDMmI5cDZkM0RiYnowc2dVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxNzA5MjcwCWZpbGU6Q0tIVUIgQWRtaW4gUHJvXzAuMC4xX3g2NC1zZXR1cC5leGUKRUgzaXJqWUExbC96OWlUQVhqY0g4b1FQQ0o4YnNCcnY1bDBacldBQkNWYUwxS0ZJVHl0UytKc2pld09mbEFDT3V4N0RuYi9SZTlUdGxuekdFSk9VQlE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSOW1UL1BoZWlSVFpXem9CdDBGdEpySGJlWHhqWnJvRjFVVkZsczhpWFR5T0YzZzdkL0tnYmtNWTFQZWdMRFgweVN3RDNlV1A1anBKbmZqRFptWU81blVxR3VJS0Y2TVFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzgxODg0NzkyCWZpbGU6Q0tIVUIgQWRtaW4gUHJvXzAuMC4xX3g2NC1zZXR1cC5leGUKSHNQdEczRW81ZTM0eFRGSzFzU2s2SER2ZkRSK3VoV2Zma25ldEJHdkpQVGNBdXBqTytNMXNoSUNhYVFCUEpoZ2UyYkpUbXRKSjJXTVBzTE9RMkNyRFE9PQo=",
             "url": "https://github.com/ldqntkh/cyberking.adminapp-pro.tauri.release/releases/download/v0.0.1/CKHUB_Admin_Pro_0.0.1_x64-setup.exe"
         }
     }
